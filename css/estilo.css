@@ -1,0 +1,96 @@
+html {
+    background-color: grey;
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+img {
+    max-width: 30%;
+}
+
+.group{
+    font-size: 30px;
+    display:flex;
+    text-align: center;
+    
+}
+.site-nav{
+    text-decoration: none;
+    display: inline-block;
+
+}
+.botao1:hover{
+    color: red;
+    text-align: center;
+}
+
+.botao2:hover{
+    color: red;
+    text-align: center;
+}
+
+.botao3:hover{
+    color: red;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+.container{
+    text-align: center;
+}
+
+.group{
+    padding: 50px;
+    align-items: center;
+}
+p{
+    background-color: white;
+    padding: 50px 10px 20px 5px;
+    margin:25px;
+}
+
+.Titulo_1{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+
+footer {
+	text-align: center;
+	font-size: 85%;
+	color: #999;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+a{
+    font-size: 25px;
+    padding: 50px 10px 20px 5px;
+    margin:25px;
+    color: white;
+}
+
+a:hover{
+    color: red;
+
+}
+
+h3{
+    background-color: white;
+    padding: 50px 10px 20px 5px;
+    margin:25px;
+    font-size: 25px;
+}
+
+h2{
+    background-color: white;
+    padding: 50px 10px 20px 5px;
+    margin:25px;
+    font-size: 30px;
+}
